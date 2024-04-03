@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 
 In this project we will analyze the portugese bank marketing data using the CRISP Data Modelling 
 framework available in AIML and identify the features in the data set that denotes the subscriptions to the product. 
@@ -6,7 +6,7 @@ As a result of this analysis, we will be able to identify the features that indi
 team could focus on the group. Different classifying models will be trained to perform this prediction, their accuracy and timing 
 it takes to train the data is recorded to find the best fit for this problem.
 
-#Overview
+**Overview**
 
 
 Python program we developed will go through the below CRISP DM framework phases and Business understanding :
